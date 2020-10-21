@@ -10,5 +10,6 @@ public class Square {
         int length = 5;
         int width = 10;
         int height = 15;
+        int area = 150;
     }
 }

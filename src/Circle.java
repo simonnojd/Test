@@ -8,5 +8,6 @@
 public class Circle {
     public static void main(String[] args) {
         int radius = 2;
+        int diameter = 4;
     }
 }

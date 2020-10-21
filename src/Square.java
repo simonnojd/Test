@@ -11,5 +11,6 @@ public class Square {
         int width = 10;
         int height = 15;
         double area = 150.69;
+        String area1 = "150 cm";
     }
 }
